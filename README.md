@@ -1,3 +1,3 @@
-cd# apnacollege-demo
-this is  my first git repository
+apnacollege-demo
+this is  my first git repository<br>
 Author-radha chavan
